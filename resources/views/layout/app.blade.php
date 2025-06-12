@@ -82,7 +82,7 @@
                                     <a href="404.html" class="dropdown-item">404 Page</a>
                                 </div>
                             </div> --}}
-                            <a href="{{url('/contact')}}" class="nav-item nav-link">Contact</a>
+                            {{-- <a href="{{url('/contact')}}" class="nav-item nav-link">Contact</a> --}}
                         </div>
                     </div>
                     <div class="d-none d-xl-flex flex-shirink-0">
